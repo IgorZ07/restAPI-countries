@@ -1,0 +1,22 @@
+{
+  "name": "restapi-countries",
+  "version": "1.0.0",
+  "description": "CRUD practise with countries REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorZ07/restAPI-countries.git"
+  },
+  "author": "Igor Zavad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorZ07/restAPI-countries/issues"
+  },
+  "homepage": "https://github.com/IgorZ07/restAPI-countries#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
