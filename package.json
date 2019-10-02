@@ -18,5 +18,8 @@
   "homepage": "https://github.com/IgorZ07/restAPI-countries#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
   }
 }
